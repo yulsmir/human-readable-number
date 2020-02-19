@@ -4,7 +4,7 @@ module.exports = function toReadable(number) {
     let tens = ['twenty', 'thirty', 'forty', 'fifty', 'sixty', 'eighty', 'ninety'];
 
     function getFullNumber(number) {
-
+        
     }
 
     function getDozens() {
